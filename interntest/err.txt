@@ -1,0 +1,14 @@
+
+C:/Dev/dojospace/intern/node_modules/intern/runner.js:163
+						throw new Error('Missing Sauce username or access key. Disable Sauce Con
+						      ^
+Error: Missing Sauce username or access key. Disable Sauce Connect or provide this information.
+    at C:/Dev/dojospace/intern/node_modules/intern/runner.js:163:13
+    at execModule (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:512:54)
+    at checkComplete (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:579:7)
+    at guardCheckComplete (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:563:4)
+    at checkComplete (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:571:27)
+    at onLoadCallback (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:653:7)
+    at injectUrl (C:\Dev\dojospace\intern\node_modules\intern\node_modules\dojo\dojo.js:746:5)
+    at fs.readFile (fs.js:176:14)
+    at Object.oncomplete (fs.js:297:15)
